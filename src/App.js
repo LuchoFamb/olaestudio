@@ -13,7 +13,7 @@ import ScrollToTop from "./hooks/ScrollToTop";
 import Studio from "./pages/Studio";
 function App() {
 	return (
-		<BrowserRouter basename="olaestudio">
+		<BrowserRouter basename="/olaestudio">
 			<Navbar />
 			<ScrollToTop />
 			<Switch>
