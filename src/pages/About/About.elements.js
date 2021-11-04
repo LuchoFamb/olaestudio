@@ -29,3 +29,10 @@ export const BodyText = styled.p`
 export const AboutLogoHeader = styled.img`
 	max-width: 700px;
 `;
+export const AboutFlexContainer = styled.div`
+	min-width: 100vh;
+	display: flex;
+	@media screen and (max-width: 1000px) {
+		flex-direction: column;
+	}
+`;

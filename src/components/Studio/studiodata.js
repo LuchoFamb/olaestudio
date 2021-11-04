@@ -51,11 +51,10 @@ const equipment = {
 		"Cuatro Venezolano Luthier",
 		"Rosini (Cavaquinho)",
 		"Novation MiniNova (Sintetizador)",
-		"Roland TD-1K (Bateria Electrica)",
 	],
 	Pedales: [
 		"Hermida Zendrive (Overdrive)",
-		"	Chase Bliss Brothers Analog Gain Stage (Overdrive/Fuzz)",
+		"Chase Bliss Brothers Analog Gain Stage (Overdrive/Fuzz)",
 		"Guild Super Overdrive",
 		"Moog MF Drive (Overdrive)",
 		"Boss Bass Overdrive ODB3",
