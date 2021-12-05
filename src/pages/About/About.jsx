@@ -28,7 +28,7 @@ const About = () => {
 					<h5 style={{ textAlign: "center", margin: "2rem" }}>
 						OLA somos Matias Luzi, Luciano Cabrera y Federico Chillo.
 					</h5>
-					<h6 style={{ textAlign: "center", margin: "2rem" }}>
+					<h6 style={{ textAlign: "center", marginTop: "2rem" }}>
 						Colegiales, Buenos Aires, Argentina
 					</h6>
 				</AboutWrapper>
@@ -49,7 +49,7 @@ const About = () => {
 					<h5 style={{ textAlign: "center", margin: "2rem" }}>
 						OLA is Matias Luzi, Luciano Cabrera and Federico Chillo.
 					</h5>
-					<h6 style={{ textAlign: "center", margin: "2rem" }}>
+					<h6 style={{ textAlign: "center", marginTop: "2rem" }}>
 						Colegiales, Buenos Aires, Argentina
 					</h6>
 				</AboutWrapper>

@@ -10,6 +10,9 @@ export const StudioEqContainer = styled.div`
 	@media screen and (max-width: 1000px) {
 		grid-template-columns: 1fr 1fr;
 	}
+	@media screen and (max-width: 500px) {
+		grid-template-columns: 1fr;
+	}
 `;
 export const StudioEqTitle = styled.h4`
 	text-align: center;

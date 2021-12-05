@@ -9,11 +9,13 @@ export const NavbarContainer = styled.div`
 	color: black;
 	display: flex;
 	justify-content: center;
+	/* background-color: rgba(0, 0, 0, 0.4); */
+
+	/* backdrop-filter: blur(4px); */
 `;
 export const NavbarWrapper = styled.div`
 	height: 100%;
 	width: 100%;
-	max-width: 1500px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;

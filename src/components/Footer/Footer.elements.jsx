@@ -31,7 +31,7 @@ export const SocialMediaElement = styled.a`
 export const FooterCredits = styled.p`
 	font-size: 0.8rem;
 	color: #222222;
-	margin-top: 2rem;
+	margin: 0;
 `;
 export const InstaIcon = styled(GrInstagram)``;
 export const LinkedinIcon = styled(GrLinkedin)``;
