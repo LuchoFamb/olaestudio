@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const AboutFlexContainer = styled.div`
 	display: flex;
 	background-color: black;
-	height: calc(100vh - 119px);
+	min-height: calc(100vh - 119px);
 	@media screen and (max-width: 1000px) {
 		flex-direction: column;
 	}
